@@ -11,7 +11,7 @@
   * [Link](#link)
 
   # Screenshot
-  
+  ![Screen Shot 2023-01-17 at 11 58 27 AM](https://user-images.githubusercontent.com/110851664/212976059-e3af68c2-31a2-4cb7-b89a-d383ba819e0e.png)
 
   # Usage 
   Check out the webpage and do some math.
